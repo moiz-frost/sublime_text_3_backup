@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"BracketHighlighter",
+		"EJS 2",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"HTMLBeautify",
+		"jQuery",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"PackageSync",
+		"Phpcs",
+		"Sails Snippets",
+		"SideBarEnhancements",
+		"Vue Syntax Highlight"
+	]
+}
